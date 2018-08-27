@@ -23,8 +23,6 @@
         "javascript": "javascriptreact"
     },
     "emmet.syntaxProfiles": {
-        // Emmet seems to handle JSX fine now, but leaving this here for the moment.
-        // "javascript": "jsx",
         "php": "html"
     },
     "terminal.integrated.rendererType": "dom",
