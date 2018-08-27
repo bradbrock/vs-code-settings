@@ -1,0 +1,32 @@
+{
+    "breadcrumbs.enabled": true,
+    "workbench.colorTheme": "Cobalt2",
+    "workbench.sideBar.location": "left",
+    "window.zoomLevel": 0,
+    "eslint.autoFixOnSave": true,
+    "editor.fontFamily": "Dank Mono",
+    "editor.fontLigatures": true,
+    "editor.wordWrap": "on",
+    "editor.tabSize": 2,
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false,
+    "editor.quickSuggestions": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "prettier.eslintIntegration": true,
+    "javascript.format.enable": false,
+    "files.associations": {
+        "*.view": "php"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.syntaxProfiles": {
+        // Emmet seems to handle JSX fine now, but leaving this here for the moment.
+        // "javascript": "jsx",
+        "php": "html"
+    },
+    "terminal.integrated.rendererType": "dom",
+    
+}
